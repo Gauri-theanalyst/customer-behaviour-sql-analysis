@@ -1,3 +1,6 @@
+# Dataset — too large for GitHub
+online_retail_clean.csv
+*.csv
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
