@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Customer Behaviour SQL Analysis
 ### Analysing 780,000+ real e-commerce transactions across 4 marketing frameworks
 
@@ -189,3 +190,7 @@ Every query was written from scratch. The goal was to learn by doing - not by co
 
 *Dataset: UCI Machine Learning Repository - Online Retail II*
 *Analyst: Gauri | Master's in Business Analytics | Based in Australia*
+=======
+# customer-behaviour-sql-analysis
+End-to-end customer analytics project analysing 780K+ e-commerce transactions using SQL and Python - covering RFM segmentation, cohort retention, product affinity and revenue trends.
+>>>>>>> 167d252bd3c5aa9db554f038422a45516f6a93b9
